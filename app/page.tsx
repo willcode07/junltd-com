@@ -1,5 +1,5 @@
-import ComingSoonPage from '../components/coming-soon'
+import ComingSoonPage from '@/components/coming-soon'
 
-export default function Home() {
+export default function Page() {
   return <ComingSoonPage />
 }
